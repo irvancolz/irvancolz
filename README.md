@@ -96,9 +96,7 @@ My focus is not just on speed or following trends, but on building solutions tha
 ## Projects
 some curated project i've worked in the past, some are still on going progress
 
-<video controls autoplay muted loop playsinline>
-  <source src="/assets/cozy-place.mp4" type="video/mp4" />
-</video>
+<img alt='himmel statue' src='./assets/cozy-place.gif' />
 
 <details>
   <summary><strong>Himmel Statue</strong></summary>
@@ -112,15 +110,14 @@ some curated project i've worked in the past, some are still on going progress
   <img
     src="./assets/himmel-statue.jpg"
     alt="Himmel statue inspired by Frieren: Beyond Journey’s End"
+    style="display:block; width:100%;object-fit:cover;"
   />
 
 </details>
 
 ---
 
-<video controls autoplay muted loop playsinline>
-  <source src="/assets/room-planner.mp4" type="video/mp4" />
-</video>
+<img alt='room planner' src='./assets/room-planner.gif' />
 
 <details>
   <summary><strong>Room Planner (Ongoing)</strong></summary>
@@ -135,9 +132,7 @@ some curated project i've worked in the past, some are still on going progress
 
 ---
 
-<video controls autoplay muted loop playsinline>
-  <source src="/assets/light-shader.mp4" type="video/mp4" />
-</video>
+<img alt='glass shader experiment' src='./assets/light-shader.gif' />
 
 <details>
   <summary><strong>Glass Shader Experiment</strong></summary>
@@ -152,9 +147,7 @@ some curated project i've worked in the past, some are still on going progress
 
 ---
 
-<video controls autoplay muted loop playsinline>
-  <source src="/assets/apple-physics.mp4" type="video/mp4" />
-</video>
+<img alt='apple with custom physics' src='./assets/apple-physics.gif' />
 
 <details>
   <summary><strong>Blender to Three.js Integration</strong></summary>
