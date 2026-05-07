@@ -86,6 +86,7 @@ I have around 1.5 years of experience building backend applications with Go, inc
 My preferred choice for quickly building backend services. I mainly use it for database management, authentication, and object storage.  
   
 </details>
+
 ## AI
 
 I see AI as a powerful technology that drives new innovation, and I use it to support my workflow and improve productivity. However, I never let AI take the wheel. As an engineer, I’m responsible for everything I build, and I believe I should understand every line of code I ship.
