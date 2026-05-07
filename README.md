@@ -95,6 +95,11 @@ My focus is not just on speed or following trends, but on building solutions tha
 
 ## Projects
 some curated project i've worked in the past, some are still on going progress
+
+<video controls autoplay muted loop playsinline>
+	<source src='/assets/cozy-place.mp4' type='video/mp4' />
+</video>
+
 <details>
 	<summary>
 	**Himmel Statue**
@@ -103,7 +108,14 @@ some curated project i've worked in the past, some are still on going progress
 	*Stack* : Three.Js, Javascript, Sass,
 	
 	my entry for [`ThreeJsJourney`](https://threejs-journey.com/challenges/020-cozy-place#) challenge, inspired by Himmel statue in the middle of forest 	 from Frieren's journey end Anime.
+	<img src='./assets/himmel-statue.jpg' alt='img from https://monsterjournal.com/wp-content/uploads/2024/08/Himmel-5.jpg' />
+	
 </details>
+
+
+<video controls autoplay muted loop playsinline>
+	<source src='/assets/room-planner.mp4' type='video/mp4' />
+</video>
 
 <details>
 	<summary>
@@ -115,6 +127,11 @@ some curated project i've worked in the past, some are still on going progress
 	custom room organizer with advanced spatial querying for objects collision detection and integrated customizer feature for each object
 </details>
 
+
+<video controls autoplay muted loop playsinline>
+	<source src='/assets/light-shader.mp4' type='video/mp4' />
+</video>
+
 <details>
 	<summary>
 	**Glass Shader experiment**
@@ -123,6 +140,20 @@ some curated project i've worked in the past, some are still on going progress
 	*Stack* : Three.Js, Javascript
 	
 	my exploration to learn more about PBR light shading based no [`this`](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/) article
+</details>
+
+<video controls autoplay muted loop playsinline>
+	<source src='/assets/apple-physics.mp4' type='video/mp4' />
+</video>
+
+<details>
+	<summary>
+	**Blender to Three.js Integration**
+	</summary>
+	*Live* : '-'
+	*Stack* : Three.Js, Javascript, Blender
+	
+	made custom model in Blender then import it into Three.js to add custom interactions and custom physics.
 </details>
 
 ## Contacts
