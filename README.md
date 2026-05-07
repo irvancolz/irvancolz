@@ -96,7 +96,10 @@ My focus is not just on speed or following trends, but on building solutions tha
 ## Projects
 some curated project i've worked in the past, some are still on going progress
 
-<img alt='himmel statue' src='./assets/cozy-place.gif' />
+---
+
+<img alt='himmel statue' src='./assets/cozy-place.gif'   
+style="display:block; width:100%;object-fit:cover; height:100%;"/>
 
 <details>
   <summary><strong>Himmel Statue</strong></summary>
@@ -110,14 +113,15 @@ some curated project i've worked in the past, some are still on going progress
   <img
     src="./assets/himmel-statue.jpg"
     alt="Himmel statue inspired by Frieren: Beyond Journey’s End"
-    style="display:block; width:100%;object-fit:cover;"
   />
 
 </details>
+<br/>
+<br/>
 
 ---
 
-<img alt='room planner' src='./assets/room-planner.gif' />
+<img alt='room planner' src='./assets/room-planner.gif' style="display:block; width:100%;object-fit:cover; height:100%;"/>
 
 <details>
   <summary><strong>Room Planner (Ongoing)</strong></summary>
@@ -129,10 +133,12 @@ some curated project i've worked in the past, some are still on going progress
   The project includes advanced spatial querying for object collision detection, interactive object placement, and real-time customization features for furniture and room assets.
 
 </details>
+<br/>
+<br/>
 
 ---
 
-<img alt='glass shader experiment' src='./assets/light-shader.gif' />
+<img alt='glass shader experiment' src='./assets/light-shader.gif' style="display:block; width:100%;object-fit:cover; height:100%;"/>
 
 <details>
   <summary><strong>Glass Shader Experiment</strong></summary>
@@ -144,10 +150,12 @@ some curated project i've worked in the past, some are still on going progress
   This experiment was inspired by [`this article`](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/) and helped me study refraction, dispersion, transparency, and glass-like surface rendering in WebGL.
 
 </details>
+<br/>
+<br/>
 
 ---
 
-<img alt='apple with custom physics' src='./assets/apple-physics.gif' />
+<img alt='apple with custom physics' src='./assets/apple-physics.gif' style="display:block; width:100%;object-fit:cover; height:100%;"/>
 
 <details>
   <summary><strong>Blender to Three.js Integration</strong></summary>
