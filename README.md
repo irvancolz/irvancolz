@@ -97,64 +97,76 @@ My focus is not just on speed or following trends, but on building solutions tha
 some curated project i've worked in the past, some are still on going progress
 
 <video controls autoplay muted loop playsinline>
-	<source src='/assets/cozy-place.mp4' type='video/mp4' />
+  <source src="/assets/cozy-place.mp4" type="video/mp4" />
 </video>
 
 <details>
-	<summary>
-	**Himmel Statue**
-	</summary>
-	*Live* : [`link`] (https://irvancolz.github.io/himmel_statue/)
-	*Stack* : Three.Js, Javascript, Sass,
-	
-	my entry for [`ThreeJsJourney`](https://threejs-journey.com/challenges/020-cozy-place#) challenge, inspired by Himmel statue in the middle of forest 	 from Frieren's journey end Anime.
-	<img src='./assets/himmel-statue.jpg' alt='img from https://monsterjournal.com/wp-content/uploads/2024/08/Himmel-5.jpg' />
-	
+  <summary><strong>Himmel Statue</strong></summary>
+
+  **Live**: [`link`](https://irvancolz.github.io/himmel_statue/)  
+  **Stack**: Three.js, JavaScript, Sass
+
+  My submission for the [`Three.js Journey`](https://threejs-journey.com/challenges/020-cozy-place#) Cozy Place challenge, inspired by the Himmel statue scene from *Frieren: Beyond Journey’s End*.  
+  The project focuses on recreating a calm and nostalgic atmosphere through stylized lighting, environment composition, and subtle scene interactions.
+
+  <img
+    src="./assets/himmel-statue.jpg"
+    alt="Himmel statue inspired by Frieren: Beyond Journey’s End"
+  />
+
 </details>
 
+---
 
 <video controls autoplay muted loop playsinline>
-	<source src='/assets/room-planner.mp4' type='video/mp4' />
+  <source src="/assets/room-planner.mp4" type="video/mp4" />
 </video>
 
 <details>
-	<summary>
-	**Room Planner (on going)**
-	</summary>
-	*Live* : [`link`] (https://custom-room-organizer.netlify.app/)
-	*Stack* : Three.Js, Javascript, Sass,
-	
-	custom room organizer with advanced spatial querying for objects collision detection and integrated customizer feature for each object
+  <summary><strong>Room Planner (Ongoing)</strong></summary>
+
+  **Live**: [`link`](https://custom-room-organizer.netlify.app/)  
+  **Stack**: Three.js, JavaScript, Sass
+
+  A browser-based room planner and customization tool built with Three.js.  
+  The project includes advanced spatial querying for object collision detection, interactive object placement, and real-time customization features for furniture and room assets.
+
 </details>
 
+---
 
 <video controls autoplay muted loop playsinline>
-	<source src='/assets/light-shader.mp4' type='video/mp4' />
+  <source src="/assets/light-shader.mp4" type="video/mp4" />
 </video>
 
 <details>
-	<summary>
-	**Glass Shader experiment**
-	</summary>
-	*Live* : '-'
-	*Stack* : Three.Js, Javascript
-	
-	my exploration to learn more about PBR light shading based no [`this`](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/) article
+  <summary><strong>Glass Shader Experiment</strong></summary>
+
+  **Live**: `-`  
+  **Stack**: Three.js, JavaScript
+
+  An exploration project focused on physically based rendering and light behavior in shaders.  
+  This experiment was inspired by [`this article`](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/) and helped me study refraction, dispersion, transparency, and glass-like surface rendering in WebGL.
+
 </details>
+
+---
 
 <video controls autoplay muted loop playsinline>
-	<source src='/assets/apple-physics.mp4' type='video/mp4' />
+  <source src="/assets/apple-physics.mp4" type="video/mp4" />
 </video>
 
 <details>
-	<summary>
-	**Blender to Three.js Integration**
-	</summary>
-	*Live* : '-'
-	*Stack* : Three.Js, Javascript, Blender
-	
-	made custom model in Blender then import it into Three.js to add custom interactions and custom physics.
+  <summary><strong>Blender to Three.js Integration</strong></summary>
+
+  **Live**: `-`  
+  **Stack**: Three.js, JavaScript, Blender
+
+  A workflow experiment where I created custom 3D assets in Blender and integrated them into Three.js with interactive behaviors and physics simulation.  
+  The project explores the pipeline between 3D content creation and real-time browser rendering.
+
 </details>
+
 
 ## Contacts
 
