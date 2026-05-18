@@ -177,3 +177,4 @@ talk to me anytime at :
  - [`Instagram`](https://www.instagram.com/ipan_sahaludin2?igsh=M2VqZXF5dzRqZjNj)
  - [`Bluesky`](https://bsky.app/profile/irvancolz.bsky.social)
  - [`Youtube`](https://www.youtube.com/@irvansaharudin)
+ - [`Email : irvansaharudin@gmail.com`]
