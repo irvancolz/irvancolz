@@ -68,6 +68,15 @@ I use Blender to tweak existing assets or create simple 3D models from scratch w
 When speed, scalability, and maintainability are priorities, React is my go-to solution. I leverage its ecosystem effectively while also being comfortable building custom solutions when required.  
   
 </details>  
+
+<details>  
+<summary>Vue.js</summary>  
+  
+**Expertise:** Beginner  
+  
+Not my silver bullet. but i still can build with it and still comfortable to translate code written from other framework to it. Official Documentation helps me a lot.
+  
+</details> 
   
 <details>  
 <summary>Go</summary>  
