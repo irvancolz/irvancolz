@@ -2,6 +2,14 @@
 
 I’m a professional fullstack web developer specializing in building immersive 3D web experiences such as games, product visualizations, and virtual tours. I spent most of my time working on personal projects and exploring creative ideas, but my inbox is always open. Feel free to reach out anytime — I’d love to connect with you.
 
+## Contacts
+
+talk to me anytime at : 
+ - [`x`](https://x.com/IrvanSahar77574)
+ -  [`Linkedin`](https://www.linkedin.com/in/irvan-saharudin-a2289a23a/)
+ - [`Instagram`](https://www.instagram.com/ipan_sahaludin2?igsh=M2VqZXF5dzRqZjNj)
+ - [`Bluesky`](https://bsky.app/profile/irvancolz.bsky.social)
+ - [`Youtube`](https://www.youtube.com/@irvansaharudin)
 
 ## Skills
 
@@ -177,12 +185,3 @@ style="display:block; width:100%;object-fit:cover; height:100%;"/>
 
 </details>
 
-
-## Contacts
-
-talk to me anytime at : 
- - [`x`](https://x.com/IrvanSahar77574)
- -  [`Linkedin`](https://www.linkedin.com/in/irvan-saharudin-a2289a23a/)
- - [`Instagram`](https://www.instagram.com/ipan_sahaludin2?igsh=M2VqZXF5dzRqZjNj)
- - [`Bluesky`](https://bsky.app/profile/irvancolz.bsky.social)
- - [`Youtube`](https://www.youtube.com/@irvansaharudin)
